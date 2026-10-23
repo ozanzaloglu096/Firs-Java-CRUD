@@ -269,3 +269,4 @@ The following guides may also be helpful:
 * https://spring.io/guides/gs/accessing-data-mysql/[Accessing data with MySQL]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
+Reviewed and contributed by Murat Acikgoz (79865)
